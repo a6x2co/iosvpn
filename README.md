@@ -5,8 +5,8 @@
 
 VPN名称  | 地址  | 表头
  ---- | ----- | ------  
- 袋鼠加速器  | [袋鼠加速器](https://cjyffmmy.com/share.html?channel=s3)    | 一键连接 
- 袋鼠加速器  | [袋鼠加速器](https://cjyffmmy.com/share.html?channel=s3)    | 一键连接
+ 袋鼠加速器  | [袋鼠加速器](https://sjmjstb.com/share.html?channel=s3)    | 一键连接 
+ 袋鼠加速器  | [袋鼠加速器](https://sjmjstb.com/share.html?channel=s3)    | 一键连接
  
  
 ```
